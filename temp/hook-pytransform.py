@@ -1,0 +1,1 @@
+binaries=[(r"C:\Users\codex\Desktop\adrescode-main\dist\obf\_pytransform*", ".")]
