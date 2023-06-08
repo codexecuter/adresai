@@ -6,3 +6,5 @@ termcolor
 selenium
 webdriver_manager
 pyarmor
+tempmail-lol
+WMI
