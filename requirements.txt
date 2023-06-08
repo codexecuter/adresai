@@ -4,7 +4,7 @@ psutil
 pystyle
 termcolor
 selenium
-webdriver_manager
+webdriver-manager
 pyarmor
 tempmail-lol
 WMI
